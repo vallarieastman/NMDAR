@@ -1,0 +1,24 @@
+                 :-) GROMACS - gmx sasa, 2025.3-conda_forge (-:
+
+Executable:   /opt/miniconda3/envs/md-311/bin.AVX2_256/gmx
+Data prefix:  /opt/miniconda3/envs/md-311
+Working dir:  /Users/val/Projects/NMDAR
+Command line:
+  gmx sasa -s SASA/hNR1_protein.pdb -f SASA/oneframe.xtc -n SASA/index.ndx -surface Protein -output residue -probe 0.14 -ndots 24 -o SASA/sasa_total.xvg -or SASA/sasa_residue.xvg -oa SASA/sasa_atom.xvg
+
+
+-------------------------------------------------------
+Program:     gmx sasa, version 2025.3-conda_forge
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int *, char **)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -output
+    Invalid selection 'residue'
+      Near 'residue'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at https://manual.gromacs.org/current/user-guide/run-time-errors.html
+-------------------------------------------------------
