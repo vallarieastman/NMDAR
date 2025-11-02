@@ -1,0 +1,404 @@
+ 100 153
+A0A670YRI6|eastern_brown_snake|PID|88.35%             TKLKIVTIHQ EPFVYVK--- PTL-ADGKCK PLLNSTGGLV QQVLCTGPNE
+A0A401T1R4|brownbanded_bambooshark|PID|87.63%         ---------- ---------- ---------- ---------- ----------
+A0A4W3J4J6|ghost_shark|PID|87.63%                     ---------- ---------- ---------- ---------- ----------
+A0A2I3HC39|northern_white_cheeked_gibbon|PID|98.96%   ---------- ---------- ---------- ---------- -------PGS
+A0A671MHF5|fish|PID|90.62%                            ---------- ---------- ---------- ---------- ----------
+A0A673LP77|fish|PID|90.72%                            ---------- ---------- ---------- ---------- ----------
+A0A672S9Y3|dianchi_golden_line_fish|PID|90.53%        ---------- ---------- ---------- ---------- ----------
+A0A8C5BAB2|atlantic_cod|PID|94.68%                    TRLKIVTIHQ EPFVYVKPTK ND---G-TC- ---------- -----THSHT
+A0A2R9AEU9|pygmy_chimpanzee|PID|90.29%                ---------- -------CTG PN---D---- ---------- -----TSPGS
+A0A2R9AFT8|pygmy_chimpanzee|PID|89.22%                ---------- -------CTG PN---D---- ---------- -----TSPGS
+A0AAD9BZW0|patagonian_toothfish|PID|89.69%            G-YQMSTKLK EPFVYVKP-- -TK-TDGTCK E-----E--- -----FTLN-
+F7E6L8|duckbill_platypus|PID|89.32%                   K--------- -K---VICTG PN---E---- ---------- -----TTYGS
+A0A672S9Z2|dianchi_golden_line_fish|PID|89.22%        ---------- ---------- -N---E---- ---------- -----TIPGN
+A0A7J8IKA1|egyptian_fruit_bat|PID|90.29%              ---------- ---------- -----D---- ---------- -----TSPGS
+A0A7N4NV16|tasmanian_devil|PID|88.35%                 ---------- ---------- -----D---- ---------- -----THPGA
+A0A340XI92|yangtze_river_dolphin|PID|90.29%           ---------- ---------- ---------- ---------- ------SPGS
+A0A8D2ITG2|komodo_dragon|PID|88.24%                   ---------- ---------- ---------- ---------- ------MPGS
+A0A6P5JT33|koala|PID|94.17%                           ---------- ---------- ---------- ---------- -----THPGA
+A0A340XBX0|yangtze_river_dolphin|PID|90.29%           ---------- ---------- ---------- ---------- -----TSPGS
+A0A1S3G7X9|ord_s_kangaroo_rat|PID|90.29%              ---------- ---------- ---------- ---------- -----TSPGN
+A0A1S2ZMA1|western_european_hedgehog|PID|90.29%       ---------- ---------- -N---D---- ---------- -----TSPGS
+A0A2K5UT02|crab_eating_macaque|PID|99.02%             ---------- ---------- ---------- ---------- -------PGS
+NMDZ1|human|PID|100.00%                               ---------- ---------- ---------- ---------- -------PGS
+A0AAA9RTM8|bovine|PID|99.03%                          ---------- ---------- ---------- ---------- -------PGS
+A0A2Y9SXP4|sperm_whale|PID|99.03%                     ---------- ---------- ---------- ---------- -------PGS
+A0A7J7FGE5|south_central_black_rhinoceros|PID|99.03%  ---------- ---------- ---------- ---------- -------PGS
+A0A8B9X1W9|wild_yak|PID|91.26%                        ---------- ---------- -----AGE-- PLLTASR--- -----PTRQ-
+A0A8C4MD47|donkey|PID|90.29%                          ---------- ---------- -N---D---- ---------- -----TSPG-
+A0A834BUC8|marine_medaka|PID|93.14%                   ---------- ---------- ---------- ---------- ------IPG-
+F7CS95|western_clawed_frog|PID|95.10%                 ---------- ---------- ---------- ---------- ------IPG-
+NMDZ1|african_clawed_frog|PID|94.12%                  ---------- ---------- ---------- ---------- ------IPG-
+A0A6P6N329|goldfish|PID|94.12%                        ---------- ---------- ---------- ---------- ------IPG-
+A0A6P6IX11|goldfish|PID|92.16%                        ---------- ---------- ---------- ---------- ------IPG-
+A0A6P8SD18|gaboon_caecilian|PID|88.24%                ---------- ---------- ---------- ---------- ------VPG-
+A0A7N8XCT4|fish|PID|88.00%                            ---------- ---------- ---------- ---------- --------T-
+A0A8J0TPH2|african_clawed_frog|PID|91.00%             ---------- ---------- ---------- ---------- --------G-
+A0AAD1T365|western_spadefoot_toad|PID|96.00%          ---------- ---------- ---------- ---------- --------G-
+A0A8J6EI00|puerto_rican_coqui|PID|93.00%              ---------- ---------- ---------- ---------- --------G-
+A0A1S3PRN4|atlantic_salmon|PID|92.00%                 ---------- ---------- ---------- ---------- --------G-
+A0A8C5EJF3|blunt_snouted_clingfish|PID|90.00%         ---------- ---------- ---------- ---------- --------G-
+A0A3Q4I9W9|fairy_cichlid|PID|89.00%                   ---------- ---------- ---------- ---------- --------S-
+A0A8C7WTV9|fish|PID|88.00%                            ---------- ---------- ---------- ---------- --------G-
+H9G5D5|green_anole|PID|89.22%                         ---------- ---------- ---------- ---------- -----TMPG-
+A0A9F2KWA3|burmese_python|PID|88.24%                  ---------- ---------- ---------- ---------- -----TMPG-
+A0A8C5AY71|atlantic_cod|PID|95.74%                    TRLKIVTIHQ EPFVYVICTG PN---G---- ---------- -----TTPG-
+A0A6P6M0G3|goldfish|PID|91.26%                        ---------- ---------- -----E---- ---------- -----TIPG-
+A0A2G9S639|american_bullfrog|PID|89.32%               ---------- ---------- -----E---- ---------- -----TTPG-
+A0A6I9XGP9|reptile|PID|89.11%                         ---------- ---------- ---------- ---------- -------PG-
+A0A6J2QU89|frogmouth|PID|88.12%                       ---------- ---------- ---------- ---------- -------SG-
+A0A9Q0EEU4|fish|PID|91.09%                            ---------- ---------- ---------- ---------- -------PG-
+A0A3P8VGN3|tongue_sole|PID|92.08%                     ---------- ---------- ---------- ---------- -------PG-
+A0A6P6K8F5|goldfish|PID|95.05%                        ---------- ---------- ---------- ---------- -------PG-
+A0A3Q3B9P9|mangrove_killifish|PID|94.06%              ---------- ---------- ---------- ---------- -------PG-
+A0A674N6G1|japanese_pufferfish|PID|93.07%             ---------- ---------- ---------- ---------- -------PG-
+A0A2U9BU52|turbot|PID|91.09%                          ---------- ---------- ---------- ---------- -------PG-
+A0A6P7YH55|amphibian|PID|88.12%                       ---------- ---------- ---------- ---------- -------PG-
+A0A852GD19|shorebird|PID|91.75%                       ---------- ---------- ---------- ---------- ----------
+A0A3Q3GAP3|mangrove_killifish|PID|92.16%              ---------- ---------- ---------- ---------- -----ETIP-
+A0A8C4F2U9|european_seabass|PID|87.38%                ---------- ---------- PNATIPGT-- ---------- -----HTHT-
+A0A8C6YIG4|indian_cobra|PID|91.84%                    ---------- ---------- ---------- ---------- ----------
+A0A8C2X404|lumpsucker|PID|89.32%                      ---------- ---------- -----PGT-- ---------- -----HTSG-
+A0A8M1HHT2|siamese_fighting_fish|PID|87.88%           ---------- ---------- ---------- ---------- ----------
+A0A667YQ01|fish|PID|88.89%                            ---------- ---------- ---------- ---------- ----------
+A0AA47MAT5|benguela_hake|PID|88.89%                   ---------- ---------- ---------- ---------- ----------
+A0A9Q0IMK7|fish|PID|89.90%                            ---------- ---------- ---------- ---------- ----------
+A0A8C3Q019|golden_pheasant|PID|89.90%                 ---------- ---------- ---------- ---------- ----------
+A0A6Q2XCK1|northern_pike|PID|89.90%                   ---------- ---------- ---------- ---------- ----------
+A0A672HAF5|jewelled_blenny|PID|89.90%                 ---------- ---------- ---------- ---------- ----------
+A0A6G1PYJ9|fish|PID|88.89%                            ---------- ---------- ---------- ---------- ----------
+A0AAY4CB02|fish|PID|88.89%                            ---------- ---------- ---------- ---------- ----------
+A0A3P9N449|guppy|PID|88.89%                           ---------- ---------- ---------- ---------- ----------
+A0A7N6C393|climbing_perch|PID|87.88%                  ---------- ---------- ---------- ---------- ----------
+H2MGR1|japanese_rice_fish|PID|91.75%                  ---------- ---------- ---------- ---------- ----------
+A0A9Q1IP22|kaup_s_arrowtooth_eel|PID|90.72%           ---------- ---------- ---------- ---------- ----------
+A0A9D3Q7S9|tarpon|PID|90.72%                          ---------- ---------- ---------- ---------- ----------
+A0A9D3M375|european_freshwater_eel|PID|90.72%         ---------- ---------- ---------- ---------- ----------
+A0A9D3LYX8|european_freshwater_eel|PID|90.72%         ---------- ---------- ---------- ---------- ----------
+A0A9Q1G8X4|kaup_s_arrowtooth_eel|PID|89.69%           ---------- ---------- ---------- ---------- ----------
+A0A665VYX8|live_sharksucker|PID|88.12%                ---------- ---------- ---------- ---------- -------GN-
+A0A9Y4TZR2|fish|PID|90.29%                            ---------- ---------- ---------- ---------- -----NSSG-
+A0AAD8CS13|atlantic_sturgeon|PID|88.24%               ---------- ---------- ---------- ---------- -----NKTG-
+A0A669BP57|nile_tilapia|PID|90.20%                    ---------- ---------- ---------- ---------- ------LTR-
+A0A7J5YH92|antarctic_cod|PID|90.29%                   ---------- ---------- -----VH--- ---------- -----STKG-
+A0A6F9A562|fish|PID|88.78%                            ---------- ---------- ---------- ---------- ----------
+A0A8C5JNI5|dark_eyed_junco|PID|90.82%                 ---------- ---------- ---------- ---------- ----------
+A0A671P0S4|fish|PID|91.84%                            ---------- ---------- ---------- ---------- ----------
+W5LWF6|spotted_gar|PID|91.84%                         ---------- ---------- ---------- ---------- ----------
+A0A8M2BJ28|zebrafish|PID|91.84%                       ---------- ---------- ---------- ---------- ----------
+A0A8C8C3D3|chinook_salmon|PID|90.82%                  ---------- ---------- ---------- ---------- ----------
+A0A667YIV4|fish|PID|90.82%                            ---------- ---------- ---------- ---------- ----------
+A0A8C1IWG6|common_carp|PID|90.82%                     ---------- ---------- ---------- ---------- ----------
+A0A8X7WU04|senegal_bichir|PID|90.82%                  ---------- ---------- ---------- ---------- ----------
+F1R366|zebrafish|PID|90.82%                           ---------- ---------- ---------- ---------- ----------
+A0A3P9QC64|guppy|PID|89.80%                           ---------- ---------- ---------- ---------- ----------
+A0A0P7UMP5|asian_bonytongue|PID|89.80%                ---------- ---------- ---------- ---------- ----------
+A0A8U0PAS4|lake_trout|PID|89.80%                      ---------- ---------- ---------- ---------- ----------
+A0A672SAR7|dianchi_golden_line_fish|PID|89.69%        ---------- ---------- ---------- ---------- ----------
+A0A7N6FAN3|climbing_perch|PID|89.69%                  ---------- ---------- ---------- ---------- ----------
+A0AAD7SUR9|fish|PID|88.78%                            ---------- ---------- ---------- ---------- ----------
+A0A9W7TCE8|cave_loach|PID|88.78%                      ---------- ---------- ---------- ---------- ----------
+
+                                                      TLPHRASQCC YGFCIDLLIK LAK--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      ----IVPQCC FGFCIDLLIK LASTPTLNFT YEVHLVQDGK FGTQERVNNS
+                                                      ----IIPQCC YGFCVDLLVK LASTTTLNFT YEVHLVHDGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ----IVPQCC CGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PTHINTHCC YGFCIDLLIK LAM--NMNFT YEVHLVADGK FGTQERVNNS
+                                                      -RECAGQGCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -RECAGQGCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --GVLIKKCC YGFCVDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      -SRHTVPQCC YGFCVDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -TSGTFVTCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -ARHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -NRHTILQCC YGFCIDLLID LAK--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -ARPSVMLCC YGFCIDLLIK LAK--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      -SRHTILQCC YGFCIDLLID LAK--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -SRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCVDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -PRRTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RHTVPQCC YGFCVDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      -TRHTVPQCC YGFCIDLLIK LAR--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAR--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCVDLLIK LAR--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPHVLHCC YGFCIDLLLK LSR--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      --HPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTIPHCC YGFCIDLLIK LAR--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAK--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLLK LAK--EMNFN YEFHLVADGK FGTQERVNNS
+                                                      --QPIVHQCC YGFCIDLLIK LAD--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPSVMLCC YGFCIDLLIK LAK--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPSVMLCC YGFCIDLLIK LAK--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--NMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RATVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTIPQCC YGFCIDLLLK LAK--EMNFN YEFHLVADGK FGTQERVNNS
+                                                      --RPSVMLCC YGFCIDLLIK LAK--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      --RPIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPTVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPTVPQCC YGFCVDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPHVLHCC YGFCVDLLLK LSR--EMNFT YEVHLVADGK FGTQERVNNS
+                                                      ----TVALCC YGFCIDLLIR LAG--VMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --HPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---LGVMLCC YGFCIDLLIK LAK--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCVDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--NLNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--NMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--NMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--NMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPTVALCC YGFCIDLLIR LAG--VMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAD--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPVVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPVVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SLNFT YEVHLVADGK FGTQERVNNS
+                                                      ----IIPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ----IVPHCC YGFCIDLLIK LAM--TMNFT YEVHLVSDGK FGTQERVNNS
+                                                      ----IVPQCC FGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ----VVPQCC FGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ----IVPHCC YGFCIDLLIK LAM--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      ----IVPQCC FGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --TPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPIVPQCC YGFCIDLLIK LAK--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      --QPIVPQCC YGFCIDLLIK LAM--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      --RPIVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAG--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PTVALCC YGFCIDLLIR LAG--VMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAK--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAF--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAG--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAK--SMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAL--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVGDGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCVDLLIK LAG--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCIDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVRDGK FGTQERVNNS
+                                                      ---PIVPQCC YGFCVDLLIK LAM--TMNFT YEVHLVADGK FGTQERVNNS
+
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLGDMI VAPLTINNER AQYIEFSKPY KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGHADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLNY---
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVI
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AHYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQGDMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGQADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLSGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINNER AQYIEFSKPF KYQGLTILVK
+                                                      NKKEWNGMMG ELLGGLADMI VAPLTINKER AQYIEFSKPF KYQGLTILVK
+
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      --S
+                                                      K-I
+                                                      K-I
+                                                      S-I
+                                                      KEI
+                                                      KEI
+                                                      KSL
+                                                      KEI
+                                                      KEI
+                                                      KVI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KVG
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KPF
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KFQ
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KTP
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KEI
+                                                      KVI
+                                                      KVS
+                                                      KEI
+                                                      KEI

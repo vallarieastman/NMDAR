@@ -1,0 +1,18 @@
+metric,value,notes
+N sequences,100.0,
+Alignment length (L),153.0,
+Mean seq coverage,0.6692810457516342,Fraction non-gap per sequence (mean)
+Median seq coverage,0.6568627450980392,Median across sequences
+Median pairwise %ID,93.87755102040816,Median across all sequence pairs (×100 for %)
+IQR pairwise %ID,5.2083333333333375,IQR across pairs (×100 for %)
+Henikoff Neff,31.94427674439033,From Henikoff weights (given)
+Henikoff Neff/L,0.2087861225123551,Rule of thumb: ≥2 is solid for DCA
+Neff@0.80,1.00020202020202,Seq-reweighting with θ=0.80
+Neff@0.80 / L,0.006537268105895556,
+Neff@0.90,1.1847017119366234,Seq-reweighting with θ=0.90
+Neff@0.90 / L,0.007743148444030219,
+Unique species (tokens),72.0,Count of distinct species tokens parsed from headers
+Shannon diversity H (nat),4.0086625806251215,Higher = more diverse
+Evenness (H / log(S)),0.9373335371682945,"0..1, higher = more even"
+Cols ≥50% gaps,52.0,High-gap columns (may prune or mask)
+Cols ≤20% gaps,98.0,Well-covered columns (good signal)
