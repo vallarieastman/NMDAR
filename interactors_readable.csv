@@ -1,0 +1,20 @@
+Gene,UniProt_ID,Location,Function_Keywords,Category,Epitope_Relevance
+DOCK1,Q14185,cytoplasm,cytoskeleton dynamics; synaptic signaling,Synaptic / Cytoskeletal / Membrane Scaffold,Binds intracellular motifs or organizes surface clusters → helps exclude intracellular regions as epitopes and highlight extracellular clustering.
+ANKRD13C,Q8N6S4,cytosol; endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+CDS1,Q92903,endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+ELMO2,Q96JJ3,cytoplasm; cytosol,cytoskeleton dynamics,Synaptic / Cytoskeletal / Membrane Scaffold,Binds intracellular motifs or organizes surface clusters → helps exclude intracellular regions as epitopes and highlight extracellular clustering.
+ELMO1,Q92556,cell membrane; cytoplasm; plasma membrane,cytoskeleton dynamics; synaptic signaling,Synaptic / Cytoskeletal / Membrane Scaffold,Binds intracellular motifs or organizes surface clusters → helps exclude intracellular regions as epitopes and highlight extracellular clustering.
+GRIN1,Q05586,cell membrane; endoplasmic reticulum,ER quality control; trafficking,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+DOCK5,Q9H7D0,cell membrane; cytoplasm; plasma membrane,cytoskeleton dynamics,Synaptic / Cytoskeletal / Membrane Scaffold,Binds intracellular motifs or organizes surface clusters → helps exclude intracellular regions as epitopes and highlight extracellular clustering.
+CISD2,Q8N5K1,endoplasmic reticulum; mitochondrion,ER quality control; autophagy,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+PTPRK,Q15262,cell junction; cell membrane,cytoskeleton dynamics,Synaptic / Cytoskeletal / Membrane Scaffold,Binds intracellular motifs or organizes surface clusters → helps exclude intracellular regions as epitopes and highlight extracellular clustering.
+GPR89A,B7ZAQ6,golgi,trafficking,Other / Needs Review,Unclear relevance; review manually.
+NOTCH3,Q9UM47,cell membrane,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+FBXO2,Q9UK22,cytoplasm,ER quality control; synaptic signaling,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+MANEA,Q5SRI9,golgi,,Other / Needs Review,Unclear relevance; review manually.
+CIP2A,Q8TCG1,cytoplasm,,Other / Needs Review,Unclear relevance; review manually.
+ATP11C,Q8NB49,cell membrane; endoplasmic reticulum,ER quality control; trafficking,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+RETREG3,Q86VR2,endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+AGPAT4,Q9NRZ5,endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+EBP,Q15125,cytoplasm; endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
+FITM2,Q8N6M3,endoplasmic reticulum,ER quality control,ER / Folding / ERAD / Autophagy,Interacts with NR1 during folding/QC → identifies structurally fragile extracellular regions likely to present epitopes.
